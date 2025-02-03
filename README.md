@@ -12,13 +12,15 @@ Did you know? 🤔 I once participated in **Enfócate 2.0**, a tech innovation c
 
 ### 📫 Let's Connect!
 - 💼 LinkedIn: [Justin Gomezcoello](https://www.linkedin.com/in/justin-gomezcoello/)
-- 📧 Email: [justingomezcoello@gmail.com] 
+- 📧 Email: justingomezcoello@gmail.com 
+
 
 ### 🔥 Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat&logo=tensorflow&logoColor=white)
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=dot-net&logoColor=white)
 

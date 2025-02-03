@@ -37,5 +37,5 @@ Hi! My name is **Justin Gomezcoello**, and I'm a **Software Engineering** studen
 ### 💡 Fun Fact:
 Did you know? 🤔 I once participated in **Enfócate 2.0**, a tech innovation challenge organized by **Diners x UDLA**, where my team developed a tourism app using **AR, VR, and AI**! 🌍🚀 We worked on the project for **six months** and proudly secured **4th place** in the competition! 🏆
 
-🚀 Let's build something amazing together! 😃
+
 

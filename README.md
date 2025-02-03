@@ -6,21 +6,36 @@ Hi! My name is **Justin Gomezcoello**, and I'm a **Software Engineering** studen
 - 📊 **Machine Learning** – Exploring the world of AI and data-driven solutions.
 - 🏗 **Microservices Architecture** – Building scalable and modular applications.
 - 🔗 **.NET MAUI & ASP.NET** – Developing full-stack applications with modern frameworks.
+  
 
-### 💡 Fun Fact
-Did you know? 🤔 I once participated in **Enfócate 2.0**, a tech innovation challenge organized by **Diners x UDLA**, where my team developed a tourism app using **AR, VR, and AI**! 🌍🚀 We worked on the project for **six months** and proudly secured **4th place** in the competition! 🏆
+---
 
-### 📫 Let's Connect!
-- 💼 LinkedIn: [Justin Gomezcoello](https://www.linkedin.com/in/justin-gomezcoello/)
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-gomezcoello/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JustinGomezcoello)
 - 📧 Email: justingomezcoello@gmail.com 
 
+---
 
-### 🔥 Tech Stack
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=dot-net&logoColor=white)
+### 🚀 Tech Stack:
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinGomezcoello&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinGomezcoello&layout=compact&theme=tokyonight)
+
+---
+
+### 💡 Fun Fact:
+Did you know? 🤔 I once participated in **Enfócate 2.0**, a tech innovation challenge organized by **Diners x UDLA**, where my team developed a tourism app using **AR, VR, and AI**! 🌍🚀 We worked on the project for **six months** and proudly secured **4th place** in the competition! 🏆
+
+🚀 Let's build something amazing together! 😃
 

@@ -3,9 +3,9 @@
 Hi! My name is **Justin Gomezcoello**, and I'm a **Software Engineering** student at **Universidad de Las Américas (UDLA), Quito, Ecuador**. Currently, I'm in my **6th semester**, and I'm passionate about technology, software development, and innovation. I don't have a nickname, but you can call me Justin! 😄
 
 ### 🚀 What I'm Currently Learning
-- 📊 **Machine Learning** – Exploring the world of AI and data-driven solutions.
-- 🏗 **Microservices Architecture** – Building scalable and modular applications.
 - 🔗 **.NET MAUI & ASP.NET** – Developing full-stack applications with modern frameworks.
+- 🏗 **Microservices Architecture** – Building scalable and modular applications.
+- 📊 **Machine Learning** – Exploring the world of AI and data-driven solutions.
   
 
 ---

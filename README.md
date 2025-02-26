@@ -38,9 +38,6 @@ Hi! My name is **Justin Gomezcoello**, and I'm a **Software Engineering** studen
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat-square&logo=dot-net&logoColor=white)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="400px">
-</div>
 
 ---
 
@@ -66,5 +63,10 @@ Hi! My name is **Justin Gomezcoello**, and I'm a **Software Engineering** studen
 
 ### 💡 Fun Fact:
 Did you know? 🤔 I once participated in Enfócate 2.0 (June – December 2024), a tech innovation challenge organized by Diners x UDLA! 🚀 My team developed a tourism app using AR, VR, and AI 🌍. After six months of hard work, we proudly secured 4th place in the competition! 🏆🔥
+
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px">
+</div>
 
 

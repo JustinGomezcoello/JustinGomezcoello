@@ -1,4 +1,6 @@
-
+<picture> 
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+</picture>
 ### 👨‍💻 About Me
 Hi! My name is **Justin Gomezcoello**, and I'm a **Software Engineering** student at **Universidad de Las Américas (UDLA), Quito, Ecuador**. Currently, I'm in my **6th semester**, and I'm passionate about technology, software development, and innovation. I don't have a nickname, but you can call me Justin! 😄
 
